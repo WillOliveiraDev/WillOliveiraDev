@@ -32,7 +32,7 @@ Sou um **Desenvolvedor em formação** e estudante de **Ciência da Computação
 
 #### 🌐 Desenvolvimento Web
 - **HTML5:** Estruturação moderna.
-- **CSS3:** 
+- **CSS3:**  FLEXBOX E GRID LAYOUT
 
 #### 📊 Ferramentas & Outros
 - **Pacote Office:** Excel e Word (Básico).
