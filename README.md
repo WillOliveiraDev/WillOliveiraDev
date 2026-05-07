@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um **Desenvolvedor em formação** e estudante de **Ciência da Computação** na Universidade Estácio de Sá. Tenho uma base sólida em lógica de programação e estou focado em conquistar minha primeira oportunidade de estágio em **Desenvolvimento Web ou Software**.
+Sou um **Desenvolvedor em formação** e estudante de **Ciência da Computação** na Universidade Estácio de Sá. Tenho uma base sólida em lógica de programação e estou focado em conquistar minha primeira oportunidade de estágio em **Desenvolvimento Web**.
 
  **Educação:** Bacharelado em Ciência da Computação (2025 - 2029)
 *🌍 **Idiomas:** Inglês nível A2 (Leitura e Escrita).
@@ -27,12 +27,12 @@ Sou um **Desenvolvedor em formação** e estudante de **Ciência da Computação
 ### 🛠️ Conhecimentos & Tecnologias
 
 #### 💻 Linguagens de Programação
-- **Python:** Fundamentos e lógica aplicada.
+- **Python:** Fundamentos e ORIENTAÇÃO A OBJETO.
 - **C:** Vetores, recursividade e algoritmos.
 
 #### 🌐 Desenvolvimento Web
 - **HTML5:** Estruturação moderna.
-- **CSS3:** Estilização, classes, IDs e formatação de links.
+- **CSS3:** 
 
 #### 📊 Ferramentas & Outros
 - **Pacote Office:** Excel e Word (Básico).
