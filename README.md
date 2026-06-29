@@ -76,19 +76,6 @@ Atualmente estou focado em evoluir como desenvolvedor Full Stack, desenvolvendo 
 - 📈 **Power BI:** Básico.
 - 🤖 **Inteligência Artificial:** Automação de processos.
 
----
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento Full Stack
-- APIs REST
-- Node.js
-- Banco de Dados
-- Estruturas de Dados
-- Git e GitHub
-
----
-
 ## 🌎 Idiomas
 
 - 🇺🇸 Inglês — Nível A2 (Leitura e Escrita)
