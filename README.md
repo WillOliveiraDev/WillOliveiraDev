@@ -1,4 +1,4 @@
-# Olá, eu sou William Oliveira! 👋
+# Olá, eu sou William!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Buscando%20Estágio-success?style=for-the-badge" alt="Status">
