@@ -3,20 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Buscando%20Estágio-success?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Curso-Ciência%20da%20Computação-blue?style=for-the-badge" alt="Curso">
-  <img src="https://img.shields.io/badge/Localização-São%20João%20de%20Meriti%20%7C%20RJ-informational?style=for-the-badge" alt="Localização">
 </p>
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de **Ciência da Computação** na **Universidade Estácio de Sá** e estou em busca da minha primeira oportunidade de **estágio em Desenvolvimento Web**.
-
-Tenho conhecimentos em **HTML, CSS, JavaScript, Node.js, PostgreSQL e Python**, além de uma base sólida em lógica de programação e desenvolvimento de interfaces responsivas utilizando **Flexbox** e **CSS Grid**.
-
-Atualmente estou focado em evoluir como desenvolvedor Full Stack, desenvolvendo projetos práticos e aprofundando meus conhecimentos em desenvolvimento web e banco de dados.
-
----
 
 ## 🎓 Formação
 
