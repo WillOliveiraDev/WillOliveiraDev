@@ -1,10 +1,5 @@
 # Olá, eu sou William!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Buscando%20Estágio-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Curso-Ciência%20da%20Computação-blue?style=for-the-badge" alt="Curso">
-</p>
-
 ## 🎓 Formação
 
 **Universidade Estácio de Sá**  
