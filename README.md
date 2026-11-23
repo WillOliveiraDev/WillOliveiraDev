@@ -17,52 +17,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
-
-### Front-end
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-### Back-end
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
-### Banco de Dados
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-### Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-Automação-8A2BE2?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠️ Conhecimentos
-
-- 🐍 **Python:** Fundamentos e Orientação a Objetos.
-- 🌐 **HTML5 & CSS3:** Estruturação moderna, Flexbox e Grid Layout.
-- ⚡ **JavaScript:** Fundamentos, condicionais e arrays.
-- 🚀 **Node.js:** Conceitos básicos.
-- 🗄️ **PostgreSQL:** SELECT, WHERE e GROUP BY.
-- 📊 **Excel:** Tabelas Dinâmicas.
-- 📈 **Power BI:** Básico.
-- 🤖 **Inteligência Artificial:** Automação de processos.
-
-## 🌎 Idiomas
-
-- 🇺🇸 Inglês — Nível A2 (Leitura e Escrita)
-
----
 
 ## 📫 Contato
 
