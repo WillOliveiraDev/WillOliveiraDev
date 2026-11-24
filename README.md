@@ -39,11 +39,4 @@ https://www.linkedin.com/in/willoliveiradev
 💻 **GitHub:**  
 https://github.com/WillOliveiraDev
 
-📱 **WhatsApp:**  
-(21) 99286-2982
-
----
-
-⭐ **Sempre aberto a aprender, colaborar em projetos e enfrentar novos desafios na área de desenvolvimento.**
-
 ---
