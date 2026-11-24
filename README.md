@@ -36,7 +36,4 @@
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/willoliveiradev
 
-💻 **GitHub:**  
-https://github.com/WillOliveiraDev
-
 ---
