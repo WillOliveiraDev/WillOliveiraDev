@@ -1,14 +1,14 @@
 # Olá, eu sou William!
 
-## 🎓 Formação
+## Formação
 
 **Universidade Estácio de Sá**  
-📚 Bacharelado em Ciência da Computação  
+  Bacharelado em Ciência da Computação  
 **2025 – 2029 (Cursando)**
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,12 +28,12 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
-📧 **E-mail:**  
+**E-mail:**  
 **williamoliveiradefreitas0@gmail.com**
 
-💼 **LinkedIn:**  
+**LinkedIn:**  
 https://www.linkedin.com/in/willoliveiradev
 
 ---
